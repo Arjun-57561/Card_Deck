@@ -80,7 +80,7 @@ Dealing 5 random cards:
 
 ## 📜 Contributors
 
-- **Your Name** - [GitHub Profile](https://github.com/Arjun-57561)
+- **Mallikarjun** - [GitHub Profile](https://github.com/Arjun-57561)
 
 ## 📄 License
 
